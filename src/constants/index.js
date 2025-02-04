@@ -149,7 +149,7 @@ import {
       company_name: "RND4Impact",
       icon: rnd,
       iconBg: "#E6DEDD",
-      date: "Mar 2023 - Present",
+      date: "Mar 2023 - Oct 2023",
       points: [
         "Working on the design and development of a smart home application",
         "Applying accessibility guidelines for designing climate controllers",
@@ -162,7 +162,7 @@ import {
       company_name: "Neuveon Inc.",
       icon: neuveon,
       iconBg: "#1D2547",
-      date: "Mar 2023 - Present",
+      date: "Nov 2023 - Present",
       points: [
         "Designing and developing a social media platform for truth-based information exchange",
         "Designed and headed a comprehensive user study of a sample size of 30; to articulate users’ needs, pain points, and preferences, and translate them into applicable design choices",
