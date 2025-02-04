@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://johnvnel.github.io/johnuxbliss",
+  "homepage": "https://johnvnel.github.io/my-app/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -39,6 +39,8 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.0.0"
+    "@vitejs/plugin-react": "^4.3.4",
+    "gh-pages": "^6.0.0",
+    "vite": "^6.0.11"
   }
 }
